@@ -5,4 +5,3 @@ scikit-learn
 matplotlib===3.8.4
 pip==23.3.1
 scipy==1.11.4
-math
